@@ -21,8 +21,7 @@ This notebook is designed to demonstrate end-to-end time series analysis and for
   5. **Forecasting**:
      - Predicted sales from July 2005 onwards using the selected SARIMA model.
      - Evaluated predictions using Mean Squared Error (MSE).
-- **Outcome**:
-  - The model captured seasonal patterns effectively and provided reasonable forecasts for future sales.
+
 
 ---
 
@@ -42,5 +41,3 @@ This notebook is designed to demonstrate end-to-end time series analysis and for
      - Compared predictions with actual seasonally differenced data.
   5. **Evaluation**:
      - Calculated Mean Absolute Error (MAE) to assess the model's accuracy.
-- **Outcome**:
-  - The seasonal period was successfully removed, and the AR model accurately captured the underlying patterns for wine consumption.
